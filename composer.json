@@ -1,0 +1,24 @@
+{
+  "name": "Paradinight/mjml",
+  "description": "",
+  "license": "MIT",
+  "keywords": [
+    "mjml", "email", "email-boilerplate", "responsive-email", "email-campaigns", "responsive"
+  ],
+  "authors": [
+    {
+      "name": "Peter"
+    }
+  ],
+  "require": {
+    "php": ">=7.0.0"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "6.1.*"
+  },
+  "autoload": {
+    "psr-4": {
+      "Paradinight\\mjml\\": "src"
+    }
+  }
+}
